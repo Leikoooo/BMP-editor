@@ -1,0 +1,3 @@
+/Users/leikooo/CLionProjects/bmp/cmake-build-debug/CMakeFiles/bmp.dir
+/Users/leikooo/CLionProjects/bmp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/leikooo/CLionProjects/bmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
